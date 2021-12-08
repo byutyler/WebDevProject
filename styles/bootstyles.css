@@ -9,9 +9,6 @@ li {
     font-style: italic;
     font-weight: normal;
 }
-a {
-    color: rgb(12, 82, 12);
-}
 a:hover {
     text-decoration: underline;
     font-weight: bold;
